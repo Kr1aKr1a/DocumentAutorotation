@@ -93,7 +93,7 @@
 
 4. Запуск скрипта
     ```bash
-    python image_auto_rotator.py
+    python autorotate.py
     ```
 
     Выведет в консоль угол поворота документа из примера и MAE (Mean Absolute Error) на 5 тестовых изображениях документов в градусах.
